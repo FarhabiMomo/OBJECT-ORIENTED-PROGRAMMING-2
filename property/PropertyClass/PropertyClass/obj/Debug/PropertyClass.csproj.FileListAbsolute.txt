@@ -1,0 +1,7 @@
+E:\aiub\8th sem\C#\visual studio\mid\property\PropertyClass\PropertyClass\bin\Debug\PropertyClass.exe.config
+E:\aiub\8th sem\C#\visual studio\mid\property\PropertyClass\PropertyClass\bin\Debug\PropertyClass.exe
+E:\aiub\8th sem\C#\visual studio\mid\property\PropertyClass\PropertyClass\bin\Debug\PropertyClass.pdb
+E:\aiub\8th sem\C#\visual studio\mid\property\PropertyClass\PropertyClass\obj\Debug\PropertyClass.csprojAssemblyReference.cache
+E:\aiub\8th sem\C#\visual studio\mid\property\PropertyClass\PropertyClass\obj\Debug\PropertyClass.csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\mid\property\PropertyClass\PropertyClass\obj\Debug\PropertyClass.exe
+E:\aiub\8th sem\C#\visual studio\mid\property\PropertyClass\PropertyClass\obj\Debug\PropertyClass.pdb

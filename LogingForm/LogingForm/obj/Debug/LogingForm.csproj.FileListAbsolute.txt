@@ -1,0 +1,10 @@
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\bin\Debug\LogingForm.exe.config
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\bin\Debug\LogingForm.exe
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\bin\Debug\LogingForm.pdb
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\obj\Debug\LogingForm.csprojAssemblyReference.cache
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\obj\Debug\LogingForm.Form1.resources
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\obj\Debug\LogingForm.Properties.Resources.resources
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\obj\Debug\LogingForm.csproj.GenerateResource.cache
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\obj\Debug\LogingForm.csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\obj\Debug\LogingForm.exe
+E:\aiub\8th sem\C#\visual studio\none\LogingForm\LogingForm\obj\Debug\LogingForm.pdb

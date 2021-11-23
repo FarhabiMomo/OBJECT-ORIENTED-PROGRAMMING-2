@@ -1,0 +1,7 @@
+E:\aiub\8th sem\C#\visual studio\mid\Struce\Structure(day4)\Structure(day4)\bin\Debug\Structure(day4).exe.config
+E:\aiub\8th sem\C#\visual studio\mid\Struce\Structure(day4)\Structure(day4)\bin\Debug\Structure(day4).exe
+E:\aiub\8th sem\C#\visual studio\mid\Struce\Structure(day4)\Structure(day4)\bin\Debug\Structure(day4).pdb
+E:\aiub\8th sem\C#\visual studio\mid\Struce\Structure(day4)\Structure(day4)\obj\Debug\Structure(day4).csprojAssemblyReference.cache
+E:\aiub\8th sem\C#\visual studio\mid\Struce\Structure(day4)\Structure(day4)\obj\Debug\Structure(day4).csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\mid\Struce\Structure(day4)\Structure(day4)\obj\Debug\Structure(day4).exe
+E:\aiub\8th sem\C#\visual studio\mid\Struce\Structure(day4)\Structure(day4)\obj\Debug\Structure(day4).pdb

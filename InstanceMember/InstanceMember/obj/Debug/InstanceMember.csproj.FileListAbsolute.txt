@@ -1,0 +1,7 @@
+E:\aiub\8th sem\C#\visual studio\mid\InstanceMember\InstanceMember\obj\Debug\InstanceMember.csprojAssemblyReference.cache
+E:\aiub\8th sem\C#\visual studio\mid\InstanceMember\InstanceMember\obj\Debug\InstanceMember.csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\mid\InstanceMember\InstanceMember\bin\Debug\InstanceMember.exe.config
+E:\aiub\8th sem\C#\visual studio\mid\InstanceMember\InstanceMember\bin\Debug\InstanceMember.exe
+E:\aiub\8th sem\C#\visual studio\mid\InstanceMember\InstanceMember\bin\Debug\InstanceMember.pdb
+E:\aiub\8th sem\C#\visual studio\mid\InstanceMember\InstanceMember\obj\Debug\InstanceMember.exe
+E:\aiub\8th sem\C#\visual studio\mid\InstanceMember\InstanceMember\obj\Debug\InstanceMember.pdb

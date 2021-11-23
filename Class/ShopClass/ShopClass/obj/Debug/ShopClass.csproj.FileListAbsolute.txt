@@ -1,0 +1,7 @@
+E:\aiub\8th sem\C#\visual studio\mid\Class\ShopClass\ShopClass\obj\Debug\ShopClass.csprojAssemblyReference.cache
+E:\aiub\8th sem\C#\visual studio\mid\Class\ShopClass\ShopClass\obj\Debug\ShopClass.csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\mid\Class\ShopClass\ShopClass\bin\Debug\ShopClass.exe.config
+E:\aiub\8th sem\C#\visual studio\mid\Class\ShopClass\ShopClass\bin\Debug\ShopClass.exe
+E:\aiub\8th sem\C#\visual studio\mid\Class\ShopClass\ShopClass\bin\Debug\ShopClass.pdb
+E:\aiub\8th sem\C#\visual studio\mid\Class\ShopClass\ShopClass\obj\Debug\ShopClass.exe
+E:\aiub\8th sem\C#\visual studio\mid\Class\ShopClass\ShopClass\obj\Debug\ShopClass.pdb
