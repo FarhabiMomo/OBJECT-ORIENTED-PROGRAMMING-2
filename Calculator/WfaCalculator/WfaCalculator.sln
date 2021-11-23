@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WfaCalculator", "WfaCalculator\WfaCalculator.csproj", "{B481E7D7-4D35-4021-A4E4-45E4ACECD31A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B481E7D7-4D35-4021-A4E4-45E4ACECD31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B481E7D7-4D35-4021-A4E4-45E4ACECD31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B481E7D7-4D35-4021-A4E4-45E4ACECD31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B481E7D7-4D35-4021-A4E4-45E4ACECD31A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B17B0F-A30B-4336-8504-4E1D321A19BA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\bin\Debug\WfaCalculator.exe.config
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\bin\Debug\WfaCalculator.exe
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\bin\Debug\WfaCalculator.pdb
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\obj\Debug\WfaCalculator.csprojAssemblyReference.cache
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\obj\Debug\WfaCalculator.Form1.resources
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\obj\Debug\WfaCalculator.Properties.Resources.resources
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\obj\Debug\WfaCalculator.csproj.GenerateResource.cache
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\obj\Debug\WfaCalculator.csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\obj\Debug\WfaCalculator.exe
+E:\aiub\8th sem\C#\visual studio\final\Calculator\WfaCalculator\WfaCalculator\obj\Debug\WfaCalculator.pdb
