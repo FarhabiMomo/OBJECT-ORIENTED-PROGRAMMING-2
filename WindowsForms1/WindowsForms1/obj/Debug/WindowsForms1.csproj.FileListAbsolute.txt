@@ -1,0 +1,10 @@
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.exe.config
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.exe
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\bin\Debug\WindowsForms1.pdb
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csprojAssemblyReference.cache
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Properties.Resources.resources
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.GenerateResource.cache
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.exe
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.pdb
+E:\aiub\8th sem\C#\visual studio\final\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Form1.resources

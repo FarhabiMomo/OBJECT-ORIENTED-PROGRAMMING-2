@@ -1,0 +1,10 @@
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\obj\Debug\WfaLoginForm.csprojAssemblyReference.cache
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\obj\Debug\WfaLoginForm.Form1.resources
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\obj\Debug\WfaLoginForm.Properties.Resources.resources
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\obj\Debug\WfaLoginForm.csproj.GenerateResource.cache
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\obj\Debug\WfaLoginForm.csproj.CoreCompileInputs.cache
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\bin\Debug\WfaLoginForm.exe.config
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\bin\Debug\WfaLoginForm.exe
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\bin\Debug\WfaLoginForm.pdb
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\obj\Debug\WfaLoginForm.exe
+E:\aiub\8th sem\C#\visual studio\final\WfaLoginForm\WfaLoginForm\obj\Debug\WfaLoginForm.pdb
